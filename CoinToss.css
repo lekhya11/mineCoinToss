@@ -1,0 +1,35 @@
+.app-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  text-align: center;
+}
+.toss-container {
+  height: 50%;
+  width: 50%;
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.heading {
+  color: #a35200;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.description {
+  color: #334155;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.coin-image {
+  height: 200px;
+  width: 200px;
+}
+.toss-button {
+  color: #a35200;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  background-color: #f9d423;
+}
