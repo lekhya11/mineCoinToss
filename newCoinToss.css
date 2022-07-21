@@ -1,0 +1,52 @@
+.app-container {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.toss-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+.heading {
+  color: #a35200;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.description {
+  color: #334155;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.coin-image {
+  height: 200px;
+  width: 200px;
+}
+.toss-button {
+  color: #a35200;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  background-color: #f9d423;
+  border-radius: 8px;
+  padding: 10px;
+}
+.total-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+}
+.total {
+  color: #475569;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
